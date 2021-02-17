@@ -22,7 +22,7 @@ Three collections are created namely: Users, Devices and Sessions
 
 ## Authors
 This project has been written and published by:
-Nissi Kazembe
+[Nissi Kazembe](https://www.linkedin.com/in/nissi-kazembe-394692117/)
 
 ## Version
 * 0.1
