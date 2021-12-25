@@ -18,7 +18,7 @@ Three collections are created namely: Users, Devices and Sessions
 ## Deployment / Installation
 * Setup a sandbox app and create a USSD channel that can be used for testing using AfricasTalking Simulator
 * The callback URL used in creating the channel can be provided by using a web tunnelling service like Ngrok, if deploying on a local host or you can expose the application on a public url.
-* For an official release of the USSD application the AfricasTalking website highlights the methodoly applied.
+* For an official release of the USSD application the AfricasTalking website highlights the methodology applied.
 
 ## Authors
 This project has been written and published by:
